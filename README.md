@@ -21,6 +21,6 @@
 * `/scripts/`: Directory for auxiliary Python scripts and helper functions.
 * `/results/`: Directory for storing the generated output images and translation results.
 * `/data/`: Directory where the training and testing images are located. Data is available under following link: https://drive.google.com/drive/folders/1Pqu6_HBOFDfSVwzidlauE4zCyt1rAXBU?usp=sharing
-* `/checkpoints/`: Directory for saving and loading model weights during the training process. Checkpoints are available under following link: https://drive.google.com/drive/folders/1Pqu6_HBOFDfSVwzidlauE4zCyt1rAXBU?usp=sharing
+* `/checkpoints/`: Directory for saving and loading model weights during the training process. Checkpoints are available under following link: https://drive.google.com/drive/folders/1YLYC889vXjaXbpsDd6Xn65dXpsALBOE9?usp=sharing
 
 ---
